@@ -1,0 +1,34 @@
+// Howdy! This is your documentations configuration file.
+// Just replace your info below, save, and you're done :)
+
+var magnificent = {
+
+  headline : "Magnificent Documentation",
+  name : "Magnificent 1.0.1",
+  short_description : "A beautiful way to present your documentation",
+  primary_button_url : "http://devdojo.ticksy.com",
+  primary_button_text : "Support Center",
+  // Look for the icon name here: http://fontawesome.io/icons/
+  primary_button_icon : "fa-book",
+  color_scheme : 'light',
+  color : '#55ACEE',
+
+  view_documentation_button_text : "",
+
+  video_background : false,
+
+  // Each menu item has an associated URL below. Separate each with commas
+  menu_items      :   'Support Center, Our Website, Product Page',
+  menu_item_urls    :   'http://devdojo.ticksy.com, http://www.devdojo.com, http://magnificent.devdojo.com',
+
+  // Optional social URL's (if left blank, they will not be displayed)
+  facebook        : 'http://www.facebook.com/thedevdojo',
+  twitter       :   'http://www.twitter.com/thedevdojo',
+  google_plus     :   '',
+  instagram       :   '',
+  pinterest       :   'http://www.pinterest.com/devdojo',
+  linkedin        :   '',
+  dribbble        :   '',
+  github        :   'http://www.github.com/thedevdojo',
+
+}
