@@ -3,13 +3,13 @@
 
 var magnificent = {
 
-  headline : "Magnificent Documentation",
-  name : "Magnificent 1.0.1",
-  short_description : "A beautiful way to present your documentation",
-  primary_button_url : "http://devdojo.ticksy.com",
-  primary_button_text : "Support Center",
+  headline : "Belk Facet SOP",
+  name : "Facet Documentation and SOP",
+  short_description : "A SOP for creating and editing facets",
+  primary_button_url : "cars.belk.com",
+  primary_button_text : "CARS",
   // Look for the icon name here: http://fontawesome.io/icons/
-  primary_button_icon : "fa-book",
+  primary_button_icon : "",
   color_scheme : 'light',
   color : '#55ACEE',
 
@@ -18,17 +18,17 @@ var magnificent = {
   video_background : false,
 
   // Each menu item has an associated URL below. Separate each with commas
-  menu_items      :   'Support Center, Our Website, Product Page',
-  menu_item_urls    :   'http://devdojo.ticksy.com, http://www.devdojo.com, http://magnificent.devdojo.com',
+  menu_items      :   'CARS, Our Website, Product Page',
+  menu_item_urls    :   'cars.belk.com, http://www.devdojo.com, http://magnificent.devdojo.com',
 
   // Optional social URL's (if left blank, they will not be displayed)
-  facebook        : 'http://www.facebook.com/thedevdojo',
-  twitter       :   'http://www.twitter.com/thedevdojo',
+  facebook        : '',
+  twitter       :   '',
   google_plus     :   '',
   instagram       :   '',
-  pinterest       :   'http://www.pinterest.com/devdojo',
+  pinterest       :   '',
   linkedin        :   '',
   dribbble        :   '',
-  github        :   'http://www.github.com/thedevdojo',
+  github        :   '',
 
 }
