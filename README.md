@@ -9,7 +9,7 @@ Need to update process doc with
 * Giann/ Nathan - Add Productions Documentation for merchant support in building Attributes and facets. 
 * Giann - Production completion of task for merchant team
 * Giann - Production completion of sending out the report to IT 
-
+* Giamm - Additional Add - Naming convention for attributes.
 
 Completed
 ---
